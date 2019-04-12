@@ -81,6 +81,17 @@ def meal_plans():
         <li><a href="/the_get-lean_meal_plan">The Get-Lean Meal Plan</a></li>
         <li><a href="/the_skinny_guy_muscle-gain_plan">The Skinny Guy Muscal-Gain Plan</a></li>
     </ul>
+        <p>Pick your Workout Playlist!</p>
+       <ul>
+       <li><a href="https://www.youtube.com/watch?v=sdtX44n4-lc&list=PLChOO_ZAB22WAvnFw86vUueyv026ULwIv&index=4">Hip-Hop</a></li>
+        <li><a href="https://www.youtube.com/watch?v=o3WdLtpWM_c&list=PLMmqTuUsDkRINEEFXWy7Ne2897vCdxJg1">Techno</a></li>
+        <li><a href="https://www.youtube.com/watch?v=eJnQBXmZ7Ek&list=PL8fAVuusm10qMUzauh8UoYkzrRHO0KU1z">Rock</a></li>
+        <li><a href="https://www.youtube.com/watch?v=VkloKZmQ3o4&list=PL6s8R-CiO2_zB85o0H4PSZeebk5P-PUWx">Country</a></li>
+        <li><a href="https://www.youtube.com/watch?v=Tztc73r8348&list=PLChOO_ZAB22WuyDODJ3kjJiU0oQzWOTyb">Pop</a></li>
+        <li><a href="https://www.youtube.com/watch?v=DNobqcfLb2Y&list=PLxvodScTx2RsV2VIDIBksBmuLFngu3mgU">Reggae</a></li>
+        <li><a href="https://www.youtube.com/watch?v=FEAZyRfgevc">EDM</a></li>
+        <li><a href="https://www.youtube.com/watch?v=EFJ7kDva7JE&list=PLxvodScTx2RtAOoajGSu6ad4p8P8uXKQk">Classical</a></li>
+    </ul>
     <a href="/">Back to home</a>
     <h6>©All Rights reserved by original authors.</h6>
     </html>
